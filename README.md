@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning:<br>Techniques for automating market research, analyzing user-generated content, and enhancing dashboard usability with visualizations.<br><br>Ask me about:<br>Automating research for ad creation, leveraging multiple data sources for insights, or creating a tool for actionable marketing suggestions.<br><br>Fun fact:<br>ART Finder is like having an AI-powered marketing detective, gathering data and uncovering secrets for ad success!<br>I am currently learning:<br>Techniques for automating market research, analyzing user-generated content, and enhancing dashboard usability with visualizations.<br><br>Ask me about:<br>Automating research for ad creation, leveraging multiple data sources for insights, or creating a tool for actionable marketing suggestions.<br><br>Fun fact:<br>ART Finder is like having an AI-powered marketing detective, gathering data and uncovering secrets for ad success!
+I am currently learning:<br>How to make boring data feel like a Netflix binge! 🎬📊 From automating market research to decoding user rants and building dashboards so cool they might just steal your spotlight. 🚀<br><br>Ask me about:<br>🔍 How to make AI do the detective work for ad creation (Sherlock vibes included 🕵️‍♂️).<br>🌐 Turning Google, Reddit, and Quora into my secret marketing lab 🧪.<br>🚀 Building tools that don’t just analyze, but drop marketing wisdom like confetti 🎉.<br><br>Fun fact:<br>ART Finder isn’t just smart—it’s sassy! 😎 Imagine an AI saying, “Hold my coffee ☕, I’ve got your next big ad idea covered!”
 
 
 ## 🌐 Socials:
@@ -12,7 +12,7 @@ I am currently learning:<br>Techniques for automating market research, analyzing
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nate1029&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nate1029&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Unique Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo

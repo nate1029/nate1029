@@ -19,21 +19,6 @@ less dumb — especially where **hardware meets AI**.
 
 ---
 
-### 🌱 Currently learning
-- Designing AI agents that reason, not just respond  
-- Making debugging feel like a conversation, not a chore  
-- Turning raw signals, logs, and data into clear decisions
-
----
-
-### 💬 Ask me about
-- AI + Arduino + ESP32  
-- Building developer tools from scratch  
-- Agentic workflows and automation  
-- Shipping fast under constraints
-
----
-
 ### 🧠 Belief system
 If it’s manual → automate it  
 If it’s slow → optimize it  

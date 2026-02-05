@@ -1,5 +1,4 @@
-# 👋 Hey, I’m Naiteek — I break things and then make them smarter
-
+# 👋 Hey, I’m Naiteek — I break things and then ask gpt to fix it
 I talk to hardware.  
 I argue with software.  
 Sometimes… they listen.

@@ -1,5 +1,44 @@
-# 💫 About Me:
-I am currently learning:<br>How to make boring data feel like a Netflix binge! 🎬📊 From automating market research to decoding user rants and building dashboards so cool they might just steal your spotlight. 🚀<br><br>Ask me about:<br>🔍 How to make AI do the detective work for ad creation (Sherlock vibes included 🕵️‍♂️).<br>🌐 Turning Google, Reddit, and Quora into my secret marketing lab 🧪.<br>🚀 Building tools that don’t just analyze, but drop marketing wisdom like confetti 🎉.<br><br>Fun fact:<br>ART Finder isn’t just smart—it’s sassy! 😎 Imagine an AI saying, “Hold my coffee ☕, I’ve got your next big ad idea covered!”
+# 👋 Hey, I’m Naiteek — I break things and then make them smarter
+
+I talk to hardware.  
+I argue with software.  
+Sometimes… they listen.
+
+🚀 Builder at heart | 🧠 AI tinkerer | ⚡ Hardware × Software chaos engineer
+
+I’m focused on building tools that make developers faster and machines
+less dumb — especially where **hardware meets AI**.
+
+---
+
+### ⚙️ Currently working on
+- AI-powered developer tools for microcontrollers  
+- Cursor-like intelligence inside the Arduino IDE  
+- Automation-first workflows that remove repetitive thinking  
+- Hackathon builds that ship, not slide decks
+
+---
+
+### 🌱 Currently learning
+- Designing AI agents that reason, not just respond  
+- Making debugging feel like a conversation, not a chore  
+- Turning raw signals, logs, and data into clear decisions
+
+---
+
+### 💬 Ask me about
+- AI + Arduino + ESP32  
+- Building developer tools from scratch  
+- Agentic workflows and automation  
+- Shipping fast under constraints
+
+---
+
+### 🧠 Belief system
+If it’s manual → automate it  
+If it’s slow → optimize it  
+If it doesn’t exist → build it
+
 
 
 ## 🌐 Socials:

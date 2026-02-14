@@ -3,7 +3,7 @@ I talk to hardware.
 I argue with software.  
 Sometimes… they listen.
 
-🚀 Builder at heart | 🧠 AI tinkerer | ⚡ Hardware × Software chaos engineer
+🚀 Builder at heart | 🧠 AI tinkerer | ⚡ Hardware × Software chaos engineer 
 
 I’m focused on building tools that make developers faster and machines
 less dumb — especially where **hardware meets AI**.
